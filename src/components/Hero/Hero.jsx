@@ -13,8 +13,7 @@ export const Hero = () => {
                     “Your Safety, Our Priority: Building a Better, Safer <br />Future for Every Citizen"
                     </p>
                     <div className="flex flex-col sm:flex-row gap-7 sm:gap-10 mt-4 text-2xl">
-                        <a href="#about_us"><Button name="Our Team" /></a>
-                        <a href="#service"><Button name="Know More" /></a>
+                        <a href="https://github.com/Desarrollo-de-Experimentos/peaceapp-mobile/releases/download/1.0.0/peaceapp.apk"><Button name="Download Peaceapp!" /></a>
                     </div>
                 </div>
             </div>
